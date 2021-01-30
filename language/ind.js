@@ -1,5 +1,5 @@
 exports.wait = () => {
-	return`*「 WAIT 」 AGUARDE UM POUCO MANO TÔ PROCESSANDO O BAGUIO*`
+	return`*「 𝐂𝐀𝐑𝐑𝐄𝐆𝐀𝐍𝐃𝐎 」 AGUARDE UM POUCO MANO TÔ PROCESSANDO O BAGUIO*`
 }
 
 exports.succes = () => {
@@ -23,11 +23,11 @@ exports.lvlnoon = () => {
 }
 
 exports.noregis = () => {
-	return`*「 NÃO REGISTRADO 」*\n\n*mano para ter acesso ao menu você tem que se cadastrar ${prefix}hideki nome|idade* \n*ex: ${prefix}hideki|19*`
+	return`*「 NÃO REGISTRADO 」*\n\n*𝐏𝐀𝐑𝐀 𝐕𝐂 𝐓𝐄𝐑 𝐀𝐂𝐄𝐒𝐒𝐎 𝐀𝐎 𝐁𝐎𝐓 𝐕𝐂 𝐏𝐑𝐄𝐂𝐈𝐒𝐀 𝐒𝐄 𝐑𝐄𝐆𝐈𝐒𝐓𝐑𝐀𝐑=(𝐬𝐞𝐮 𝐧𝐨𝐦𝐞 𝐩𝐫𝐢𝐦𝐞𝐢𝐫𝐨 𝐞 𝐢𝐝𝐚𝐝𝐞 𝐝𝐞𝐩𝐨𝐢𝐬) \n*𝓮𝔁: ${prefix}𝐝𝐚𝐟𝐭𝐚𝐫 𝐡𝐢𝐝𝐞𝐤𝐢|𝟏𝟗*`
 }
 
 exports.rediregis = () => {
-	return`*「 JÁ REGISTRADO 」*\n\n*você se registrou no banco de dados do bot RS*`
+	return`*「 JÁ REGISTRADO 」*\n\n*𝐕𝐂 𝐉Á 𝐄𝐒𝐓Á 𝐑𝐄𝐆𝐈𝐒𝐓𝐑𝐀𝐃𝐎 𝐍𝐎 𝐁𝐎𝐓*`
 }
 
 exports.stikga = () => {
