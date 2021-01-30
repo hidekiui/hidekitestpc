@@ -75,7 +75,7 @@ exports.clears = () => {
 }
 
 exports.pc = () => {
-	return`*「 REGISTRASI 」*\n\nuntuk mengetahui apa kamu sudah terdaftar silahkah check message yang saya kirim \n\nNOTE:\n*jika kamu belum mendapatkan pesan. berarti kamu belum menyimpan nomer bot*`
+	return`*「 CADASTRO 」*\n\𝐩𝐚𝐫𝐚 𝐬𝐚𝐛𝐞𝐫 𝐬𝐞 𝐯𝐨𝐜ê 𝐬𝐞 𝐜𝐚𝐝𝐚𝐬𝐭𝐫𝐨𝐮, 𝐯𝐞𝐫𝐢𝐟𝐢𝐪𝐮𝐞 𝐚 𝐦𝐞𝐧𝐬𝐚𝐠𝐞𝐦 𝐪𝐮𝐞 𝐞𝐧𝐯𝐢𝐞𝐢 \n\nNOTE:\n*𝐬𝐞 𝐯𝐨𝐜ê 𝐧ã𝐨 𝐫𝐞𝐜𝐞𝐛𝐞𝐮 𝐚 𝐦𝐞𝐧𝐬𝐚𝐠𝐞𝐦 𝐬𝐢𝐠𝐧𝐢𝐟𝐢𝐜𝐚 𝐪𝐮𝐞 𝐯𝐨𝐜ê 𝐧ã𝐨 𝐬𝐚𝐥𝐯𝐨𝐮 𝐨 𝐧ú𝐦𝐞𝐫𝐨 𝐝𝐨 𝐛𝐨𝐭*`
 }
 
 exports.registered = (namaUser, umurUser, serialUser, time, sender) => {
