@@ -217,6 +217,61 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
 ╠══─⊱ ❰ *𝐇𝐈𝐃𝐄𝐊𝐈 𝐁𝐎𝐓* ❱ ⊰─══➤
 ║
 ╰════─⊱  ⸨ *𝐇𝐈𝐃𝐄𝐊𝐈 𝐁𝐎𝐓* ⸩  ⊰─════╯
+
+┣━━❉ *𝓜𝓔𝓝𝓤 𝓣𝓣𝓢* ❉━━
+┣ 'af': 'Afrikaans',
+┣ 'sq': 'Albanian',
+┣ 'ar': 'Arabic',
+┣ 'hy': 'Armenian',
+┣ 'ca': 'Catalan',
+┣ 'zh': 'Chinese',
+┣ 'zh-cn': 'Chinese (Mandarin/China)',
+┣ 'zh-tw': 'Chinese (Mandarin/Taiwan)',
+┣ 'zh-yue': 'Chinese (Cantonese)',
+┣ 'hr': 'Croatian',
+┣ 'cs': 'Czech',
+┣ 'da': 'Danish',
+┣ 'nl': 'Dutch',
+┣ 'en': 'English',
+┣ 'en-au': 'English (Australia)',
+┣ 'en-uk': 'English (United Kingdom)',
+┣ 'en-us': 'English (United States)',
+┣ 'eo': 'Esperanto',
+┣ 'fi': 'Finnish',
+┣ 'fr': 'French',
+┣ 'de': 'German',
+┣ 'el': 'Greek',
+┣ 'ht': 'Haitian Creole',
+┣ 'hi': 'Hindi',
+┣ 'hu': 'Hungarian',
+┣ 'is': 'Icelandic',
+┣ 'id': 'Indonesian',
+┣ 'it': 'Italian',
+┣ 'ja': 'Japanese',
+┣ 'ko': 'Korean',
+┣ 'la': 'Latin',
+┣ 'lv': 'Latvian',
+┣ 'mk': 'Macedonian',
+┣ 'no': 'Norwegian',
+┣ 'pl': 'Polish',
+┣ 'pt': 'Portuguese',
+┣ 'pt-br': 'Portuguese (Brazil)',
+┣ 'ro': 'Romanian',
+┣ 'ru': 'Russian',
+┣ 'sr': 'Serbian',
+┣ 'sk': 'Slovak',
+┣ 'es': 'Spanish',
+┣ 'es-es': 'Spanish (Spain)',
+┣ 'es-us': 'Spanish (United States)',
+┣ 'sw': 'Swahili',
+┣ 'sv': 'Swedish',
+┣ 'ta': 'Tamil',
+┣ 'th': 'Thai',
+┣ 'tr': 'Turkish',
+┣ 'vi': 'Vietnamese',
+┣ 'cy': 'Welsh'
+┗━━━━━━━━━━━━━━━━
+𝐍Ú𝐌𝐄𝐑𝐎 𝐃𝐎 𝐌𝐄𝐔 𝐂𝐑𝐈𝐀𝐃𝐎𝐑:Wa.me/+5511946462131
 `
 }
 
